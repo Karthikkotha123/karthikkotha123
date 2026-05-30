@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with software enthuistic<br>🌱 I’m currently learning Full stack Development, Data Analyst, Python<br>💬 Ask me about carrer growth<br>⚡ Fun fact full time member
+🔭 I’m currently looking for job<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with software enthuistic<br>🌱 I’m currently learning Full stack Development, Data Analyst, Python<br>💬 Ask me about carrer growth<br>⚡ Fun fact full time member
 
 
 ## 🌐 Socials:
